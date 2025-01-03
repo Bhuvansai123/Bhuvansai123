@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvansai123&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvansai123" /> </p>
 
-- 🌱 I’m currently learning **python and web development**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
 - 📫 How to reach me **bhuvansai62@gmail.com**
 
